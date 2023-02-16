@@ -4,8 +4,6 @@ Olá! Me chamo Marcus Vinícius e sou um cidadão brasileiro de 30 anos, nascido
 
 Hello there! My name is Marcus Vinicius and I am a 30 years old Brazilian, born and residing in Sao Jose do Rio Preto/SP. I am also a lawyer and accountant and have been working as a director of an accounting company for 8 years, having an extensive experience in the field. Recently, I started venturing into web backend development as a hobby, which rekindled an old childhood passion. I am excited to continue learning and exploring this area =)
 
-<img src="https://i.pinimg.com/originals/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" width = 220px align = right />
-
 ## 🛠🥽 Technologies/Tools
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)

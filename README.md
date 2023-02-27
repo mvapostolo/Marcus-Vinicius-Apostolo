@@ -1,8 +1,8 @@
 # Hello world!
 
-Olá! Me chamo Marcus Vinícius, brasileiro, tenho 30 anos, nascido e residente em São José do Rio Preto/SP. Também sou advogado e contador e atuo como diretor de uma empresa contábil há 8 anos, tendo ampla experiência na área. Recentemente, comecei a me aventurar no desenvolvimento de backend em web como um hobby, o que reacendeu uma paixão antiga de infância. Estou animado para continuar aprendendo e explorando essa área =)
+Olá! Me chamo Marcus Vinícius, brasileiro, tenho 30 anos, nascido e residente em São José do Rio Preto/SP. Também sou advogado e contador e atuo como diretor de uma empresa contábil há 8 anos, tendo ampla experiência na área. Recentemente, comecei a me aventurar no desenvolvimento de backend em web como um hobby, o que reacendeu uma paixão antiga de infância. Estou animado para continuar aprendendo e explorando essa área!
 
-Hello there! My name is Marcus Vinicius and I am a 30 years old Brazilian, born and residing in Sao Jose do Rio Preto/SP. I am also a lawyer and accountant and have been working as a director of an accounting company for 8 years, having an extensive experience in the field. Recently, I started venturing into web backend development as a hobby, which rekindled an old childhood passion. I am excited to continue learning and exploring this area =)
+Hello there! My name is Marcus Vinicius and I am a 30 years old Brazilian, born and residing in Sao Jose do Rio Preto/SP. I am also a lawyer and accountant and have been working as a director of an accounting company for 8 years, having an extensive experience in the field. Recently, I started venturing into web backend development as a hobby, which rekindled an old childhood passion. I am excited to continue learning and exploring this area!
 
 ## 🛠🥽 Technologies/Tools
 
